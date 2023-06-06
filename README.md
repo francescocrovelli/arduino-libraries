@@ -1,2 +1,2 @@
-# arduino-libraries
-Librerie - Arduino
+# Arduino Libraries
+Arduino Libraries
